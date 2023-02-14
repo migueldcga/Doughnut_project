@@ -1,0 +1,301 @@
+[
+    {
+        "name": "Plancher Social",
+        "description": "",
+        "data": [
+            {
+                "country_id": "CLI",
+                "country_name": "Centrale Lille Institut 2022-2023",
+                "metric": [
+                    {
+                        "metric_name": "Accessibilité PMR",
+                        "metric_description": "Accessibilité aux local de l'institut par des personnes à mobilité réduite",
+                        "metric_category": "Handicap",
+                        "metric_value_ideal": 100,
+                        "metric_id": "Complementary of EG.CFT.ACCS.ZS",
+                        "metric_value_display": 66.8,
+                        "metric_value_current": 75.1,
+                        "metric_year": 2023,
+                        "metric_source": "Minimum : 0%, 10ème Objectif du Développement durable, Plans de Centrale Lille Institut"
+                    },
+                    {
+                        "metric_name": "employés situation handicap",
+                        "metric_description": "Pourcentage des employés en situation de handicap",
+                        "metric_category": "Handicap",
+                        "metric_value_ideal": 6,
+                        "metric_id": "Complementary of EG.ELC.ACCS.ZS",
+                        "metric_value_display": 11.83,
+                        "metric_value_current": 5.29,
+                        "metric_year": 2023,
+                        "metric_source": "Minimum 0%, Bilan Social de CLI"
+                    },
+                    {
+                        "metric_name": "Consommation alcool",
+                        "metric_description": "Pourcentage de personnes consommant plus de 12 doses par semaine",
+                        "metric_category": "Santé",
+                        "metric_value_ideal": 0,
+                        "metric_id": "Complementary of EG.ELC.ACCS.ZS",
+                        "metric_value_display": 76,
+                        "metric_value_current": 19,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum : 25%, 3ème Objectif de Développement Durable et Ministère de la Santé et de la Prévention, Questionnaire Santé"
+                    },
+                    {
+                        "metric_name": "Consommation de tabac",
+                        "metric_description": "Pourcentage de personnes se déclarant fumeur régulier",
+                        "metric_category": "Santé",
+                        "metric_value_ideal": 0,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":51.6,
+                        "metric_value_current": 12.85,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum : 25%, 3ème Objectif de Développement Durable et Ministère de la Santé et de la Prévention, Questionnaire Santé"
+                    },
+                    {
+                        "metric_name": "Sommeil",
+                        "metric_description": "Pourcentage de personnes ne cumulant pas en moyenne 6 à 8h de sommeil",
+                        "metric_category": "Santé",
+                        "metric_value_ideal": 9,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":0,
+                        "metric_value_current": 7,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum : 35.9%, 3ème Objectif de Développement Durable et Ministère de la Santé et de la Prévention, Questionnaire Santé"
+                    },
+                    {
+                        "metric_name": "Temps d'écran",
+                        "metric_description": "Temps en heure moyen passé devant les écrans chaque jour",
+                        "metric_category": "Santé",
+                        "metric_value_ideal": 6,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":75,
+                        "metric_value_current": 7.538,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum : 8h, ReidHealth.org , Questionnaire Santé"
+                    },
+                    {
+                        "metric_name": "Accès à un médecin",
+                        "metric_description": "Pourcentage de personnes ayant déjà eu des difficultés à accéder à un médecin",
+                        "metric_category": "Social",
+                        "metric_value_ideal": 0,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":100,
+                        "metric_value_current": 41,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum : 23%, Étude UFC accès au soin, Questionnaire Santé"
+                    },
+                    {
+                        "metric_name": "Précarité menstruelle",
+                        "metric_description": "Pourcentage de personnes ayant été en précarité menstruelle à CLI",
+                        "metric_category": "Social",
+                        "metric_value_ideal": 0,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":18.46,
+                        "metric_value_current": 2.4,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum : 13%, Fédération des Associations Générales Étudiantes, Questionnaire Santé"
+                    },
+                    {
+                        "metric_name": "Sexisme",
+                        "metric_description": "Pourcentage de personnes qui ont été victime de remarques ou comportements sexistes",
+                        "metric_category": "Social",
+                        "metric_value_ideal": 0,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":45.75,
+                        "metric_value_current": 18.3,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum défini à 35% mais est amené à changer, il est là pour permettre une comparaison entre les années, NousToutes.org, Questionnaire Inclusion CLIC"
+                    },
+                    {
+                        "metric_name": "VSS",
+                        "metric_description": "¨Pourcentage de personnes ayant subies des violences sexistes et sexuelles",
+                        "metric_category": "Social",
+                        "metric_value_ideal": 0,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":55,
+                        "metric_value_current": 11,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum défini à 20% mais est amené à changer, il est là pour permettre une comparaison entre les années, Équipe Doughnut, Questionnaire Inclusion CLIC"
+                    },
+                    {
+                        "metric_name": "Égalité salariale H/F",
+                        "metric_description": "Différence de salaire non justifié notamment au niveau des primes",
+                        "metric_category": "Social",
+                        "metric_value_ideal": 0,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":16.67,
+                        "metric_value_current": 1.5,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum : 9%, Muriel Pénicaud, Bilan Social de CLI"
+                    },
+                    {
+                        "metric_name": "Parité F/H",
+                        "metric_description": "Pourcentage de femmes dans Centrale Lille Institut",
+                        "metric_category": "Social",
+                        "metric_value_ideal": 50,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":16.67,
+                        "metric_value_current": 50,
+                        "metric_year": 2023,
+                        "metric_source": "Maximum : 100%, Bilan Social de CLI"
+                    },
+                    {
+                        "metric_name": "Boursiers à CLI",
+                        "metric_description": "Pourcentages d'élèves boursiers à Centrale Lille Institut",
+                        "metric_category": "Social",
+                        "metric_value_ideal": 24,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":20.8,
+                        "metric_value_current": 19.2,
+                        "metric_year": 2018,
+                        "metric_source": "Minimum : 0%, Ministère de l'éducation nationale, Rapport d'évaluation de l'École centrale de Lille par Hceres"
+                    },
+                    {
+                        "metric_name": "Activité Sportive",
+                        "metric_description": "Pourcentage de personnes",
+                        "metric_category": "Sport",
+                        "metric_value_ideal": 0,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display":18,
+                        "metric_value_current": 6.7,
+                        "metric_year": 2018,
+                        "metric_source": "Maximum : 36.9%, International Physical Activity Questionnaire, Questionnaire sur le sport"
+                    }
+                ]
+            },
+            {
+                "country_id": "CLI2",
+                "country_name": "Centrale Lille Institut 2023-2024",
+                "metric": [
+                    {
+                        "metric_name": "Accessibilité PMR",
+                        "metric_description": "Accessibilité aux local de l'institut par des personnes à mobilité réduite",
+                        "metric_category": "Handicap",
+                        "metric_value_ideal": 100,
+                        "metric_id": "Complementary of EG.CFT.ACCS.ZS",
+                        "metric_value_display": 66.8,
+                        "metric_value_current": 75.1,
+                        "metric_year": 2023,
+                        "metric_source": "Minimum : 0%, 10ème Objectif du Développement durable, Plans de Centrale Lille Institut"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "L'espace sûr et juste",
+        "description": "Doughnut: Un environnement sûr et socialement viable pour l'enseignement"
+    },
+    {
+        "name": "Plafond environnemental",
+        "description": "",
+        "data": [
+            {
+                "country_id": "CLI",
+                "country_name": "Centrale Lille Institut",
+                "metric": [
+                    {
+                        "metric_name": "Valorisation des déchets",
+                        "metric_description": "pourcentage de déchets non valorisés",
+                        "metric_category": "Recyclage",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 4,
+                        "metric_value_current": 39,
+                        "metric_year": 2023,
+                        "metric_source": "Plafond : 0% Maximum 25%, 'Économie circulaire & Zéro déchet' REFEDD, Groupe de travail Valorisation des déchets"
+                    },
+                    {
+                        "metric_name": "Déchets dangereux",
+                        "metric_description": "Part des déchets industriels dangereux dans les déchets produits dans l'Institut",
+                        "metric_category": "Recyclage",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 1.24,
+                        "metric_value_current": 31,
+                        "metric_year": 2023,
+                        "metric_source": "Plafond : 7% Maximum 100%, Bilan 2018 productions de déchets en France, Groupe de travail Valorisation des déchets"
+                    },
+                    {
+                        "metric_name": "Empreinte carbone transports",
+                        "metric_description": "Kg de CO2 rejetés en lien avec les déplacements dans le cadre de l'institut",
+                        "metric_category": "Transport",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 4,
+                        "metric_value_current": 288,
+                        "metric_year": 2023,
+                        "metric_source": "Plafond :308 kg Valeur 889 kg CO2eq, Questionnaire Bilan Carbone "
+                    },
+                    {
+                        "metric_name": "Suivi des DJU",
+                        "metric_description": "Suivi de la consommation calorique par rapport au Degrés Jours Unifiés",
+                        "metric_category": "Chauffage",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 0,
+                        "metric_value_current": 100,
+                        "metric_year": 2023,
+                        "metric_source": "Indicateur Oui ou Non, Bilan énergétique de l'Institut de Centrale Lille, infoclimat.fr "
+                    },
+                    {
+                        "metric_name": "Consommation surfacique",
+                        "metric_description": "Consommation moyenne en kWh par mois au m²",
+                        "metric_category": "Consommation électrique",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 0.65,
+                        "metric_value_current": 116.25,
+                        "metric_year": 2023,
+                        "metric_source": "Plafond : 96 kWh/(m².mois), Bilan énergétique de l'Institut de Centrale Lille "
+                    },
+                    {
+                        "metric_name": "Empreinte carbone énergies",
+                        "metric_description": "Émission carbone en 1 an en kg de CO2",
+                        "metric_category": "Consommation",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 0.53,
+                        "metric_value_current": 13.42,
+                        "metric_year": 2023,
+                        "metric_source": "Plafond : 1801 tonnes de CO2, Valeur actuelle : 2042.8, Bilan énergétique de l'Institut de Centrale Lille, Plans architecturaux de CLI, Benjamin K. Sovacool : Valuing de greenhouse gas emissions from nuclear power : A critical survey, franceinfo.fr"
+                    },
+                    {
+                        "metric_name": "DD dans les projets G1G2",
+                        "metric_description": "Pourcentage des projets G1G2 intégrant des initiatives liées au Développement Durable",
+                        "metric_category": "Nombre de démarches DD",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 2.84,
+                        "metric_value_current": 29,
+                        "metric_year": 2023,
+                        "metric_source": "Plafond 100% Car l'ingénierie doit se mettre dans une démarche de développement durable, Questionnaire projet"
+                    },
+                    {
+                        "metric_name": "Sensibilisation au DD",
+                        "metric_description": "Pourcentage d'actions de sensibilisation au Développement Durable sur l'entièreté de la scolarité",
+                        "metric_category": "Nombre de démarches DD",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 3.33,
+                        "metric_value_current": 16.66,
+                        "metric_year": 2023,
+                        "metric_source": "Plafond : 2 par an (6 sur la scolarité), Valeur actuelle : 1 action de sensibilisation sur 3 ans, Parti pris"
+                    }
+                    
+                    
+                ]
+            },
+            {
+                "country_id": "CLI2",
+                "country_name": "Centrale Lille Institut 2023-2024",
+                "metric": [
+                    {
+                        "metric_name": "Valorisation des déchets",
+                        "metric_description": "pourcentage de déchets non valorisés",
+                        "metric_category": "Recyclage",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 4,
+                        "metric_value_current": 39,
+                        "metric_year": 2023,
+                        "metric_source": "Plafond : 0% Maximum 25%, 'Économie circulaire & Zéro déchet' REFEDD, Groupe de travail Valorisation des déchets"
+                    }
+                    
+                    
+                ]
+            }
+        ]
+    }
+]
